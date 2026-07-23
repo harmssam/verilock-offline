@@ -8,7 +8,7 @@
 
 | Platform | Installer |
 |----------|-----------|
-| **macOS (Apple Silicon)** | [`.dmg` — M1 / M2 / M3 / M4](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline_0.1.2_aarch64.dmg) |
+| **macOS (Apple Silicon)** | [`.dmg` — aarch64](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline_0.1.2_aarch64.dmg) |
 | **macOS (Intel)** | [`.dmg` — x64](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline_0.1.2_x64.dmg) |
 | **Windows** | [`.msi`](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline_0.1.2_x64_en-US.msi) · [`.exe` setup](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline_0.1.2_x64-setup.exe) |
 | **Linux** | [`.AppImage`](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline_0.1.2_amd64.AppImage) · [`.deb`](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline_0.1.2_amd64.deb) · [`.rpm`](https://github.com/clevertech-os/verilock-offline/releases/download/v0.1.2/VeriLock.Offline-0.1.2-1.x86_64.rpm) |
